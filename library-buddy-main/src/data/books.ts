@@ -168,10 +168,10 @@ export const sampleBooks: Book[] = [
   },
 ];
 export const sampleMembers: Member[] = [
-  { id: "1", name: "Aarav Sharma", email: "aarav@email.com", password: "user123", memberSince: "2023-01-15", booksIssued: 3, status: "active", role: "user" },
-  { id: "2", name: "Priya Patel", email: "priya@email.com", password: "user123", memberSince: "2022-06-20", booksIssued: 1, status: "active", role: "user" },
-  { id: "3", name: "Rohan Gupta", email: "rohan@email.com", password: "user123", memberSince: "2023-08-10", booksIssued: 0, status: "inactive", role: "user" },
-  { id: "4", name: "Ananya Singh", email: "ananya@email.com", password: "user123", memberSince: "2024-02-01", booksIssued: 2, status: "active", role: "user" },
+  { id: "1", name: "Sai Kumar", email: "SaiKumar@email.com", password: "user123", memberSince: "2023-01-15", booksIssued: 3, status: "active", role: "user" },
+  { id: "2", name: "Priya ", email: "priya@email.com", password: "user123", memberSince: "2022-06-20", booksIssued: 1, status: "active", role: "user" },
+  { id: "3", name: "Rohith", email: "rohith@email.com", password: "user123", memberSince: "2023-08-10", booksIssued: 0, status: "inactive", role: "user" },
+  { id: "4", name: "Ananya ", email: "ananya@email.com", password: "user123", memberSince: "2024-02-01", booksIssued: 2, status: "active", role: "user" },
   { id: "5", name: "Vikram Reddy", email: "vikram@email.com", password: "user123", memberSince: "2023-11-05", booksIssued: 4, status: "active", role: "user" },
   { id: "6", name: "Meera Librarian", email: "librarian@libraryhub.com", password: "lib123", memberSince: "2022-01-01", booksIssued: 0, status: "active", role: "librarian" },
 ];
